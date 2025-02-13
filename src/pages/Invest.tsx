@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowRight, TrendingUp, Shield, Users, Rocket, PlayCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
